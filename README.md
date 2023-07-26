@@ -6,7 +6,7 @@
 - Juan Gualotuña
 - Heyer Tinoco
 
-#Links Netlidy
+#Links Netlify
 
 https://laboratorio4diparte1.netlify.app/
 
